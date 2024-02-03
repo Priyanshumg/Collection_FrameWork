@@ -114,4 +114,16 @@ Updating values in list
 list_name[1] = 8
 
 ====================================================================================================
+Stack
+Stack Follows Last in First Out
+
+Method
+stack.Push(Value); - To add Element in a stack
+stack.Pop(Value); - To remove elements from the stack
+stack.Peek(); - tells about top element
+
+
+
+
+
 
