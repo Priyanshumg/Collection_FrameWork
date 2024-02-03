@@ -1,0 +1,94 @@
+Collection FrameWork:
+=====================================================================================================
+Data Structures
+	1. Linear - Stored in Single line or continuous with the help of memmory address
+		--> Array
+		--> LinkedList
+		--> Stack
+		--> Queue
+	2. Non Linear
+		--> Tree
+		--> Graph
+		--> Trie
+		--> BitMaps
+=====================================================================================================
+Time Complexity
+--> Assymptotic Notation	 
+	--> Big O - Algorithm will take "worst case first"
+	--> Thetta (0) - (Specific Time)
+	--> Omega (_@_) - (Least Case) 
+====================================================================================================
+Space Complexity(It should Use Less Space)
+--> We Need Less time to store the data
+=====================================================================================================
+Algorithm  --> Brute Force
+	   --> Searching
+	   --> Divide And Conquers
+	   --> Greddy
+	   --> Recursion
+	   --> Dynamic Programming 
+	   --> Back Tracking
+	   --> Hashing
+	   --> Randomized
+	   --> Sorting
+
+1) what is an Algorithm
+say we have a question
+............
+Brute Force	
+1) Write a function to print 5 natural Number in Increasing Order?
+	--> We need algorithm to solve this, Say Brute Force
+	--> In Brute Force --> Direct Execution(Direct Appraoch)
+	--> Brute Force dosent depends on Time Complexity or anything else
+............
+Greedy Algorithm
+Choose the Optimal part to move to the solution
+
+............
+Recursive (Most Important Algorithms) - Used to Minimise the code Lines
+--> Uses Stack for storing values
+--> Say you have a function which prints a number from 1 to 5
+# It has 3 Scenarios
+Base Case --> 
+Function Calling Itself --> 
+Process Pattern (Calculation or logic)
+.............
+
+Searching Algorithm
+--> Linear Search --> searching from left to write
+--> Binary Search --> Divide the array in two parts recursively and then search
+.............
+
+Back Tracking 
+--> Checks All the Cases and choose the best case 
+--> Recursive + Greedy
+.............
+
+Dynamic Programming 
+--> Recursion
+--> Stores the value and uses the value whenever we need required
+-->
+.............
+
+Divide and Conquer
+.............
+
+--> Generics<We Use this for data Type Initialisation>
+--> Non Generics data types initialisation is direct
+--> 
+
+=====================================================================================================
+Case
+1) 2x + 3
+2) (3x^2) + 9x + 5
+=====================================================================================================
+1 - Best Case
+2 - Worst Case
+3 - Specific Case
+=====================================================================================================
+Data Structure
+1. Adding Data
+2. Search Operation
+3. sort Operation
+4. Insertion
+5. Deletion
