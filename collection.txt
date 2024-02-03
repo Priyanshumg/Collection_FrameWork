@@ -92,3 +92,26 @@ Data Structure
 3. sort Operation
 4. Insertion
 5. Deletion
+====================================================================================================
+List
+List - Stores a single type of Data
+ArrayList - Stores any types of Data
+
+List <Data_type,Data_types> Name_of_object = new List<DataType, DataType>()
+
+Methods
+Add() - To Add value in List, List.Add();
+Remove(Value) - Remove Specific Values
+RemoveAll() - Removes elements as per the conditions provided as an argument
+RemoveAt(Index_Value) - Removes the value by IndexValue
+RemoveRange(Range1, Range2) - Removes Range1 to Remove Range2
+Clear() - Removes everything in an array
+List.Capacity(); -- 
+List.Count(); --  Tells length of the list
+List.sort(); -- To sort the element of the list
+
+Updating values in list
+list_name[1] = 8
+
+====================================================================================================
+
